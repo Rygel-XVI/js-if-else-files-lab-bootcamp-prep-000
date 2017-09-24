@@ -6,8 +6,10 @@ var height = 70
 module.exports = { name, height
 }
 
-if (name === "Susan") {
+//Code for the first part of the lab but removing it makes it resolve not loop this statement
+/*if (name === "Susan") {
   console.log("The name is correct")
 } else {
   console.log ("Expected the name to be Susan")
 }
+*/
